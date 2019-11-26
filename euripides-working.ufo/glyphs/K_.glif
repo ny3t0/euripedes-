@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="727"/>
+  <unicode hex="004B"/>
+  <guideline x="299" y="666" angle="0" identifier="95wbhQgpsK"/>
+  <guideline x="657" y="561" angle="90" identifier="8PpSCp6NOZ"/>
+  <guideline x="620" y="90" angle="0" identifier="RQLEUGto4Z"/>
+  <outline>
+    <contour>
+      <point x="564" y="0" type="line"/>
+      <point x="635" y="49" type="line"/>
+      <point x="322" y="421" type="line"/>
+      <point x="247" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="574" y="120" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="657" y="90" type="line"/>
+      <point x="595" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="119" type="line"/>
+      <point x="118" y="89" type="line"/>
+      <point x="75" y="89" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="89" type="line"/>
+      <point x="285" y="89" type="line"/>
+      <point x="244" y="119" type="line"/>
+      <point x="244" y="635" type="line"/>
+      <point x="275" y="666" type="line"/>
+      <point x="309" y="666" type="line"/>
+      <point x="309" y="750" type="line"/>
+      <point x="75" y="750" type="line"/>
+      <point x="75" y="666" type="line"/>
+      <point x="117" y="666" type="line"/>
+      <point x="158" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="657" y="750" type="line"/>
+      <point x="426" y="750" type="line"/>
+      <point x="426" y="666" type="line"/>
+      <point x="453" y="666" type="line"/>
+      <point x="487" y="666" type="line"/>
+      <point x="165" y="328" type="line"/>
+      <point x="240" y="279" type="line"/>
+      <point x="590" y="666" type="line"/>
+      <point x="657" y="666" type="line"/>
+    </contour>
+  </outline>
+</glyph>
