@@ -19,6 +19,8 @@
 - [ ] extend j 
 
 *NUMBER FIXES*
-- [ ] proof spacing 
+- [ ] proof spacing
+
+ 
 *PUNCTUATION FIXES*
 - [ ] proof spacing 
