@@ -2,12 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.defcon.sortDescriptor</key>
+    <array>
+      <dict>
+        <key>ascending</key>
+        <string>FB text</string>
+        <key>type</key>
+        <string>characterSet</string>
+      </dict>
+    </array>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/daifoldes/Desktop/euripides-eu.otf</string>
+    <key>com.typemytype.robofont.guideline.magnetic.6cvZZQGLwu</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.FS7iKrLFVJ</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.VnQ5Lb4Mxd</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.qHLv2YAklp</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.6cvZZQGLwu</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.FS7iKrLFVJ</key>
+    <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.VnQ5Lb4Mxd</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.qHLv2YAklp</key>
@@ -218,6 +235,8 @@
       <string>minus</string>
       <string>guillemotleft</string>
       <string>guillemotright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
     </array>
   </dict>
 </plist>

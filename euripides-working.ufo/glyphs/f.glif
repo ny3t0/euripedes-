@@ -3,17 +3,18 @@
   <advance width="472"/>
   <unicode hex="0066"/>
   <guideline x="191" y="484" angle="90" identifier="trvGboTi2u"/>
+  <guideline x="61" y="285" angle="90" identifier="IKZQ1dmvSH"/>
   <outline>
     <contour>
       <point x="328" y="0" type="line"/>
       <point x="328" y="92" type="line"/>
-      <point x="55" y="92" type="line"/>
-      <point x="55" y="0" type="line"/>
+      <point x="61" y="92" type="line"/>
+      <point x="61" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="218" y="124" type="line"/>
-      <point x="139" y="124" type="line"/>
-      <point x="56" y="61" type="line"/>
+      <point x="225" y="124" type="line"/>
+      <point x="146" y="124" type="line"/>
+      <point x="63" y="61" type="line"/>
       <point x="307" y="61" type="line"/>
     </contour>
     <contour>
@@ -48,11 +49,6 @@
       <point x="447" y="634" type="curve"/>
     </contour>
     <contour>
-      <point x="310" y="437" type="line"/>
-      <point x="156" y="508" type="line"/>
-      <point x="101" y="448" type="line"/>
-    </contour>
-    <contour>
       <point x="390" y="380" type="line"/>
       <point x="390" y="478" type="line"/>
       <point x="60" y="478" type="line"/>
@@ -61,6 +57,11 @@
     <contour>
       <point x="388" y="759" type="move"/>
       <point x="466" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="520" type="line"/>
+      <point x="99" y="477" type="line"/>
+      <point x="151" y="477" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -18,9 +18,9 @@
         <key>identifier</key>
         <string>qHLv2YAklp</string>
         <key>x</key>
-        <integer>231</integer>
+        <integer>311</integer>
         <key>y</key>
-        <integer>636</integer>
+        <integer>800</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -28,9 +28,29 @@
         <key>identifier</key>
         <string>VnQ5Lb4Mxd</string>
         <key>x</key>
-        <integer>494</integer>
+        <integer>357</integer>
         <key>y</key>
-        <integer>120</integer>
+        <integer>122</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>6cvZZQGLwu</string>
+        <key>x</key>
+        <integer>158</integer>
+        <key>y</key>
+        <integer>285</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>FS7iKrLFVJ</string>
+        <key>x</key>
+        <integer>166</integer>
+        <key>y</key>
+        <integer>-14</integer>
       </dict>
     </array>
     <key>italicAngle</key>
