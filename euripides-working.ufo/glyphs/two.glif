@@ -30,12 +30,12 @@
       <point x="349" y="634"/>
       <point x="380" y="573"/>
       <point x="380" y="525" type="curve"/>
-      <point x="380" y="369"/>
+      <point x="380" y="339"/>
       <point x="53" y="121"/>
       <point x="53" y="104" type="curve"/>
-      <point x="109" y="35" type="line"/>
-      <point x="112" y="52"/>
-      <point x="480" y="308"/>
+      <point x="99" y="35" type="line"/>
+      <point x="102" y="52"/>
+      <point x="480" y="368"/>
     </contour>
   </outline>
 </glyph>

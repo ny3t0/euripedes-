@@ -42,11 +42,13 @@
       <point x="426" y="750" type="line"/>
       <point x="426" y="666" type="line"/>
       <point x="453" y="666" type="line"/>
-      <point x="487" y="666" type="line"/>
-      <point x="165" y="328" type="line"/>
-      <point x="240" y="279" type="line"/>
-      <point x="590" y="666" type="line"/>
       <point x="657" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="666" type="move"/>
+      <point x="240" y="398" type="line"/>
+      <point x="239" y="279" type="line"/>
+      <point x="589" y="666" type="line"/>
     </contour>
   </outline>
 </glyph>

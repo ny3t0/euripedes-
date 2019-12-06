@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="C" format="2">
-  <advance width="765"/>
+  <advance width="739"/>
   <unicode hex="0043"/>
   <guideline x="689" y="423" angle="90" identifier="TPW7AjPds7"/>
   <outline>
@@ -31,8 +31,8 @@
       <point x="694" y="544" type="line"/>
     </contour>
     <contour>
-      <point x="690" y="261.0" type="move"/>
-      <point x="607" y="283.0" type="line"/>
+      <point x="690" y="261" type="move"/>
+      <point x="607" y="283" type="line"/>
     </contour>
   </outline>
 </glyph>
