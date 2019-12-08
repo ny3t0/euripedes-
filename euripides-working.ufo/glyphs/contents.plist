@@ -218,6 +218,10 @@
     <string>exclamdown.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>f_f</key>
+    <string>f_f.glif</string>
+    <key>f_i</key>
+    <string>f_i.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
@@ -252,6 +256,8 @@
     <string>igrave.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>j.ss01</key>
+    <string>j.ss01.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>l</key>

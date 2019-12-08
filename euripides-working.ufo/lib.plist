@@ -241,6 +241,10 @@
       <string>guillemotright</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
+      <string>f_i</string>
+      <string>f_f</string>
+      <string>d.ss01</string>
+      <string>j.ss01</string>
     </array>
   </dict>
 </plist>

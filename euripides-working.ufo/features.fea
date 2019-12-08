@@ -1,0 +1,28 @@
+feature liga {
+sub f i by f_i;
+} liga;
+
+#feature ss01 {
+#sub d by exclam;
+#} ss01;
+
+# 1-1 substitution 
+
+#feature kern;
+#pos r e -100;
+#} kern;
+
+# context dependent , contextual alternates 
+
+#feature colt;
+# @finaOn =  [a.fina e.fina n.fina]; 
+# @finaOff = [a      e      n     ];
+# @finaPrevention = [abcdefghijklmnopqrstuvwxyz];
+
+#ignore sub @finaOff , @finaPrevention;
+#sub @finaOff by @finaOn
+  
+# sub e by e.fina
+
+#} colt;
+
