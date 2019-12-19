@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period" format="2">
-  <advance width="235"/>
+  <advance width="293"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="204" y="86" type="line"/>
-      <point x="118" y="131" type="line"/>
-      <point x="30" y="86" type="line"/>
-      <point x="30" y="29" type="line"/>
-      <point x="117" y="-16" type="line"/>
-      <point x="204" y="29" type="line"/>
+      <point x="242" y="89" type="line"/>
+      <point x="147" y="138" type="line"/>
+      <point x="50" y="89" type="line"/>
+      <point x="50" y="26" type="line"/>
+      <point x="146" y="-23" type="line"/>
+      <point x="242" y="26" type="line"/>
     </contour>
     <contour>
-      <point x="118" y="131" type="line"/>
-      <point x="205" y="86" type="line"/>
+      <point x="147" y="138" type="line"/>
+      <point x="243" y="89" type="line"/>
     </contour>
   </outline>
 </glyph>

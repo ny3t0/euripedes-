@@ -5,16 +5,16 @@
   <guideline x="551" y="178" angle="90" identifier="j3DHWA5fe2"/>
   <outline>
     <contour>
-      <point x="141" y="318" type="move"/>
-      <point x="333" y="691" type="line"/>
-      <point x="256" y="737" type="line"/>
-      <point x="40" y="318" type="line"/>
+      <point x="141" y="318" type="line"/>
+      <point x="373" y="691" type="line"/>
+      <point x="296" y="737" type="line"/>
+      <point x="40" y="328" type="line"/>
     </contour>
     <contour>
       <point x="377" y="626" type="line"/>
       <point x="377" y="737" type="line"/>
-      <point x="256" y="737" type="line"/>
-      <point x="256" y="626" type="line"/>
+      <point x="296" y="737" type="line"/>
+      <point x="296" y="626" type="line"/>
     </contour>
     <contour>
       <point x="377" y="737" type="line"/>

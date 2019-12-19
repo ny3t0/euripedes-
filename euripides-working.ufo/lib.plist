@@ -13,9 +13,27 @@
     </array>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/daifoldes/Desktop/euripides-eu.otf</string>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>foreground</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/NYETO/Downloads/euripedes/euripedes-/euripides-working.otf</string>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.guideline.magnetic.6cvZZQGLwu</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.FS7iKrLFVJ</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.IhQ1BwfZNy</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.VnQ5Lb4Mxd</key>
     <real>5.0</real>
@@ -26,6 +44,8 @@
     <key>com.typemytype.robofont.guideline.showMeasurements.6cvZZQGLwu</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.FS7iKrLFVJ</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.IhQ1BwfZNy</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.VnQ5Lb4Mxd</key>
     <false/>
@@ -245,6 +265,8 @@
       <string>f_f</string>
       <string>d.ss01</string>
       <string>j.ss01</string>
+      <string>emdash</string>
+      <string>MARK</string>
     </array>
   </dict>
 </plist>

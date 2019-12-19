@@ -9,8 +9,8 @@ sub f i by f_i;
 # 1-1 substitution 
 
 #feature kern;
-#pos r e -100;
 #} kern;
+
 
 # context dependent , contextual alternates 
 

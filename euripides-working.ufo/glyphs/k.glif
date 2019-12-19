@@ -43,15 +43,15 @@
     <contour>
       <point x="460" y="521" type="line"/>
       <point x="291" y="521" type="line"/>
-      <point x="291" y="447.0" type="line"/>
-      <point x="365" y="447.0" type="line"/>
-      <point x="460" y="447.0" type="line"/>
+      <point x="291" y="447" type="line"/>
+      <point x="365" y="447" type="line"/>
+      <point x="460" y="447" type="line"/>
     </contour>
     <contour>
-      <point x="410" y="447.0" type="move"/>
+      <point x="410" y="447" type="move"/>
       <point x="197" y="238" type="line"/>
       <point x="197" y="343" type="line"/>
-      <point x="312" y="447.0" type="line"/>
+      <point x="312" y="447" type="line"/>
     </contour>
   </outline>
 </glyph>
