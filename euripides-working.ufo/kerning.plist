@@ -8,6 +8,10 @@
       <integer>-30</integer>
       <key>a</key>
       <integer>-60</integer>
+      <key>n</key>
+      <integer>0</integer>
+      <key>o</key>
+      <integer>-63</integer>
     </dict>
     <key>W</key>
     <dict>
@@ -25,6 +29,8 @@
     </dict>
     <key>o</key>
     <dict>
+      <key>V</key>
+      <integer>-63</integer>
       <key>W</key>
       <integer>-60</integer>
     </dict>

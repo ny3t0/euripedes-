@@ -360,6 +360,8 @@
     <string>s.glif</string>
     <key>section</key>
     <string>section.glif</string>
+    <key>sectionsign</key>
+    <string>sectionsign.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>

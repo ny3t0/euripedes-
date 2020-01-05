@@ -26,7 +26,7 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>foreground</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/NYETO/Downloads/euripedes/euripedes-/euripides-working.otf</string>
+    <string>/Users/NYETO/Downloads/euripedes/euripedes-/euripides-v1.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.guideline.magnetic.6cvZZQGLwu</key>
@@ -267,6 +267,10 @@
       <string>j.ss01</string>
       <string>emdash</string>
       <string>MARK</string>
+      <string>U+00A7</string>
+      <string>sign</string>
+      <string>sectionsign</string>
+      <string>caput</string>
     </array>
   </dict>
 </plist>
