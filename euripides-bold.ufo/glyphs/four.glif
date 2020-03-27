@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="579"/>
+  <unicode hex="0034"/>
+  <guideline x="551" y="178" angle="90" identifier="j3DHWA5fe2"/>
+  <outline>
+    <contour>
+      <point x="141" y="318" type="line"/>
+      <point x="373" y="691" type="line"/>
+      <point x="296" y="737" type="line"/>
+      <point x="40" y="328" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="626" type="line"/>
+      <point x="377" y="737" type="line"/>
+      <point x="296" y="737" type="line"/>
+      <point x="296" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="737" type="line"/>
+      <point x="377" y="136" type="line"/>
+      <point x="339" y="106" type="line"/>
+      <point x="275" y="106" type="line"/>
+      <point x="275" y="3" type="line"/>
+      <point x="544" y="2" type="line"/>
+      <point x="544" y="105" type="line"/>
+      <point x="502" y="106" type="line"/>
+      <point x="461" y="136" type="line"/>
+      <point x="461" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="543" y="328" type="line"/>
+      <point x="40" y="328" type="line"/>
+      <point x="40" y="250" type="line"/>
+      <point x="543" y="250" type="line"/>
+    </contour>
+  </outline>
+</glyph>
