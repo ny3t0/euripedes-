@@ -1,4 +1,4 @@
-# euripedes-
+# euripides
 
 *ALPHABET FIXES:*
 - [ ] v and y are the same width
