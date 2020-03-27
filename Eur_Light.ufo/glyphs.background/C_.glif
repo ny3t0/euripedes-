@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="764"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="1070.0000000000002" y="-14.0"/>
+      <point x="-305.9999999999998" y="-14.0"/>
+      <point x="382" y="-14" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
