@@ -4,6 +4,8 @@
   <dict>
     <key>X</key>
     <string>X_.glif</string>
+    <key>ae</key>
+    <string>ae.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
     <key>c</key>
@@ -12,6 +14,10 @@
     <string>d.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>eacute</key>
+    <string>eacute.glif</string>
+    <key>egrave</key>
+    <string>egrave.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>k</key>
