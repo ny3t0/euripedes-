@@ -1,5 +1,36 @@
 # euripides
 
+
+ACCENTS
+# uppercase
+Aacute = A + acute
+Acircumflex = A + circumflex
+Atilde = A + tilde
+Agrave = A + grave
+Ccedilla = C + cedilla
+Eacute = E + acute
+Ecircumflex = E + circumflex
+Iacute = I + acute
+Oacute = O + acute
+Ocircumflex = O + circumflex
+Otilde = O + tilde
+Uacute = U + acute
+
+# lowercase
+aacute = a + acute
+acircumflex = a + circumflex
+atilde = a + tilde
+agrave = a + grave
+ccedilla = c + cedilla
+eacute = e + acute
+ecircumflex = e + circumflex
+iacute = dotlessi + acute
+oacute = o + acute
+ocircumflex = o + circumflex
+otilde = o + tilde
+uacute = u + acute
+
+
 *ALPHABET FIXES:*
 - [ ] v and y are the same width
 - [X] z is narrow, make counters trap.
