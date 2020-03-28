@@ -3,6 +3,7 @@
   <advance width="560"/>
   <unicode hex="0037"/>
   <guideline x="675" y="86" angle="0" identifier="66Nu9THOuv"/>
+  <guideline x="337" y="141" angle="0" identifier="8VdQbjAHHE"/>
   <outline>
     <contour>
       <point x="59" y="663" type="line"/>
@@ -14,20 +15,20 @@
       <point x="420" y="636" type="line"/>
       <point x="409" y="734" type="line"/>
       <point x="188" y="1" type="line"/>
-      <point x="289" y="-1" type="line"/>
+      <point x="289" y="1" type="line"/>
       <point x="505" y="734" type="line"/>
       <point x="59" y="734" type="line"/>
       <point x="59" y="636" type="line"/>
     </contour>
     <contour>
-      <point x="226" y="137" type="line"/>
-      <point x="189" y="112" type="line"/>
+      <point x="231" y="142" type="line"/>
+      <point x="187" y="107" type="line"/>
       <point x="134" y="107" type="line"/>
       <point x="134" y="0" type="line"/>
       <point x="393" y="0" type="line"/>
       <point x="393" y="109" type="line"/>
-      <point x="365" y="109" type="line"/>
-      <point x="328" y="137" type="line"/>
+      <point x="367" y="109" type="line"/>
+      <point x="328" y="143" type="line"/>
     </contour>
   </outline>
 </glyph>
