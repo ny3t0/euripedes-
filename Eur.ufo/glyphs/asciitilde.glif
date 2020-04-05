@@ -1,7 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asciitilde" format="2">
-  <advance width="500"/>
+  <advance width="669"/>
   <unicode hex="007E"/>
+  <guideline x="151" y="604" angle="90" identifier="3b5OPzAku7"/>
+  <guideline x="33" y="661" angle="90" identifier="zTt8Ug2pfN"/>
+  <guideline x="159" y="707" angle="0" identifier="Xis33ZnL9X"/>
+  <guideline x="163" y="651" angle="0" identifier="iRdIpXgknN"/>
+  <guideline x="355" y="519" angle="90" identifier="tLkfAwrWBN"/>
+  <guideline x="357" y="706" angle="90" identifier="CAq7nMxH7G"/>
   <outline>
+    <contour>
+      <point x="437" y="241" type="line"/>
+      <point x="317" y="321" type="line"/>
+      <point x="219" y="357" type="line"/>
+      <point x="132" y="302" type="line"/>
+      <point x="30" y="199" type="line"/>
+      <point x="57" y="170" type="line"/>
+      <point x="232" y="244" type="line"/>
+      <point x="352" y="164" type="line"/>
+      <point x="450" y="128" type="line"/>
+      <point x="537" y="183" type="line"/>
+      <point x="639" y="286" type="line"/>
+      <point x="612" y="315" type="line"/>
+    </contour>
   </outline>
 </glyph>

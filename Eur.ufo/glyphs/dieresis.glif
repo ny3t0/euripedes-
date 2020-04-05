@@ -1,7 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-  <advance width="500"/>
+  <advance width="511"/>
   <unicode hex="00A8"/>
+  <guideline x="151" y="604" angle="90" identifier="3b5OPzAku7"/>
+  <guideline x="33" y="661" angle="90" identifier="zTt8Ug2pfN"/>
+  <guideline x="159" y="707" angle="0" identifier="Xis33ZnL9X"/>
+  <guideline x="163" y="651" angle="0" identifier="iRdIpXgknN"/>
   <outline>
+    <contour>
+      <point x="240" y="706" type="line"/>
+      <point x="154" y="751" type="line"/>
+      <point x="66" y="706" type="line"/>
+      <point x="66" y="649" type="line"/>
+      <point x="153" y="604" type="line"/>
+      <point x="240" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="751" type="line"/>
+      <point x="241" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="706" type="line"/>
+      <point x="369" y="751" type="line"/>
+      <point x="281" y="706" type="line"/>
+      <point x="281" y="649" type="line"/>
+      <point x="368" y="604" type="line"/>
+      <point x="455" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="751" type="line"/>
+      <point x="456" y="706" type="line"/>
+    </contour>
   </outline>
 </glyph>
