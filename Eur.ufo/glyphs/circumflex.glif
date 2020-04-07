@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
   <unicode hex="02C6"/>
-  <guideline x="357" y="706" angle="90" identifier="oRr2mTXj0w"/>
+  <guideline x="307" y="622" angle="90" identifier="oRr2mTXj0w"/>
   <outline>
     <contour>
       <point x="307" y="682" type="line"/>

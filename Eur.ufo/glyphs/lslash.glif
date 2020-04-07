@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="330"/>
+  <unicode hex="0142"/>
+  <outline>
+    <component base="l"/>
+    <component base="slash" xOffset="-78" yOffset="36.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9859,0,0.027,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,6 +2,7 @@
 <glyph name="D" format="2">
   <advance width="763"/>
   <unicode hex="0044"/>
+  <guideline x="364" y="422" angle="90" name="center" identifier="1NDE04hTeg"/>
   <outline>
     <contour>
       <point x="718" y="376" type="curve" smooth="yes"/>

@@ -2,6 +2,8 @@
 <glyph name="a" format="2">
   <advance width="577"/>
   <unicode hex="0061"/>
+  <guideline x="293" y="355" angle="90" name="center" identifier="azpxHJxydT"/>
+  <guideline x="271" y="198" angle="90" name="centera" identifier="vb38RVJk55"/>
   <anchor x="296" y="658" name="top"/>
   <outline>
     <contour>

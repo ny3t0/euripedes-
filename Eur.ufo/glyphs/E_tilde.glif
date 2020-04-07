@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etilde" format="2">
+  <advance width="676"/>
+  <unicode hex="1EBC"/>
+  <outline>
+    <component base="E"/>
+    <component base="tilde" xOffset="39.5" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9859,0,0.027,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -20,6 +20,8 @@
     <string>asterisk.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
+    <key>dotlessj</key>
+    <string>dotlessj.glif</string>
     <key>f</key>
     <string>f.glif</string>
     <key>f_i</key>
@@ -44,6 +46,8 @@
     <string>questiondown.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
+    <key>quotedblbase</key>
+    <string>quotedblbase.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>two</key>

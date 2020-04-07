@@ -2,6 +2,7 @@
 <glyph name="s" format="2">
   <advance width="528"/>
   <unicode hex="0073"/>
+  <guideline x="524" y="13" angle="0" name="bottom" identifier="HJE0onPTXp"/>
   <outline>
     <contour>
       <point x="55" y="178" type="line"/>
