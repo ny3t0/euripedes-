@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="503"/>
+  <unicode hex="0165"/>
+  <guideline x="564" y="478" angle="0" identifier="XPEeTgmQyX"/>
+  <guideline x="534" y="381" angle="0" identifier="6Cp1bsRV09"/>
+  <outline>
+    <contour>
+      <point x="191" y="231" type="line"/>
+      <point x="191" y="144"/>
+      <point x="226" y="100"/>
+      <point x="295" y="100" type="curve" smooth="yes"/>
+      <point x="297" y="100"/>
+      <point x="299" y="100"/>
+      <point x="301" y="100" type="curve" smooth="yes"/>
+      <point x="360" y="100"/>
+      <point x="397" y="147"/>
+      <point x="397" y="221" type="curve"/>
+      <point x="462" y="221" type="line"/>
+      <point x="462" y="98"/>
+      <point x="389" y="-8"/>
+      <point x="304" y="-8" type="curve" smooth="yes"/>
+      <point x="176" y="-8"/>
+      <point x="110" y="69"/>
+      <point x="110" y="220" type="curve"/>
+    </contour>
+    <contour>
+      <point x="111" y="220" type="line"/>
+      <point x="111" y="664" type="line"/>
+      <point x="191" y="664" type="line"/>
+      <point x="191" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="381" type="line"/>
+      <point x="21" y="381" type="line"/>
+      <point x="21" y="478" type="line"/>
+      <point x="439" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="689" type="line"/>
+      <point x="393" y="633" type="line"/>
+      <point x="445" y="643" type="line"/>
+      <point x="473" y="711" type="line"/>
+      <point x="424" y="766" type="line"/>
+      <point x="372" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="643" type="line"/>
+      <point x="350" y="689" type="line"/>
+      <point x="295" y="515" type="line"/>
+      <point x="334" y="503" type="line"/>
+    </contour>
+  </outline>
+</glyph>

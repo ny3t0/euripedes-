@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="equal" format="2">
+<glyph name="notequal" format="2">
   <advance width="732"/>
-  <unicode hex="003D"/>
+  <unicode hex="2260"/>
   <guideline x="128" y="239" angle="90" identifier="CqlsHIqkRR"/>
   <guideline x="174" y="695" angle="0" identifier="0IeumuOcrQ"/>
   <outline>
@@ -73,6 +73,12 @@
       <point x="573" y="225" type="line"/>
       <point x="508" y="251" type="line"/>
       <point x="207" y="251" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="622" type="line"/>
+      <point x="193" y="-62" type="line"/>
+      <point x="290" y="-62" type="line"/>
+      <point x="524" y="622" type="line"/>
     </contour>
   </outline>
 </glyph>
