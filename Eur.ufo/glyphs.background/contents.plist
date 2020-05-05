@@ -18,6 +18,10 @@
     <string>X_.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
+    <key>braceleft</key>
+    <string>braceleft.glif</string>
+    <key>braceright</key>
+    <string>braceright.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
     <key>dotlessj</key>

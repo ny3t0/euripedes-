@@ -4,12 +4,12 @@
   <unicode hex="016B"/>
   <outline>
     <component base="u"/>
-    <component base="macroncap" xOffset="-5.5" yOffset="9"/>
+    <component base="macron" xOffset="-5.5" yOffset="-21"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9859,0,0.027,1</string>
+      <string>0.3653,1,0.645,1</string>
     </dict>
   </lib>
 </glyph>
