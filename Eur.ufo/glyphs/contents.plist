@@ -304,8 +304,6 @@
     <string>acute.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
-    <key>adotaccent</key>
-    <string>adotaccent.glif</string>
     <key>adotbelow</key>
     <string>adotbelow.glif</string>
     <key>ae</key>
@@ -516,8 +514,6 @@
     <string>icircumflex.glif</string>
     <key>idieresis</key>
     <string>idieresis.glif</string>
-    <key>idotaccent</key>
-    <string>idotaccent.glif</string>
     <key>idotbelow</key>
     <string>idotbelow.glif</string>
     <key>igrave</key>
@@ -602,8 +598,6 @@
     <string>ocircumlfexdotaccent.glif</string>
     <key>odieresis</key>
     <string>odieresis.glif</string>
-    <key>odotaccent</key>
-    <string>odotaccent.glif</string>
     <key>odotbellow</key>
     <string>odotbellow.glif</string>
     <key>odotbelow</key>
@@ -754,8 +748,6 @@
     <string>ucircumflex.glif</string>
     <key>udieresis</key>
     <string>udieresis.glif</string>
-    <key>udotaccent</key>
-    <string>udotaccent.glif</string>
     <key>udotbelow</key>
     <string>udotbelow.glif</string>
     <key>ugrave</key>

@@ -557,19 +557,15 @@
       <string>acircumflexdotaccent</string>
       <string>acircumflexgrave</string>
       <string>acircumlfextilde</string>
-      <string>adotaccent</string>
       <string>ecircumflexacute</string>
       <string>ecircumflexdotaccent</string>
       <string>ecircumflexgrave</string>
       <string>ecircumflextilde</string>
-      <string>idotaccent</string>
       <string>ocircumflexacute</string>
       <string>ocircumflexgrave</string>
       <string>ocircumflextilde</string>
       <string>ocircumlfexdotaccent</string>
-      <string>odotaccent</string>
       <string>ohornhook</string>
-      <string>udotaccent</string>
       <string>ydotaccent</string>
       <string>dong</string>
     </array>
